@@ -1,0 +1,45 @@
+{
+  "format": "Windows x64 PE32+ GUI, PyInstaller single-file",
+  "size": 144407133,
+  "sha256": "c46fff32df2f78a38c3ce838236da870c10291d0cbf2de37b3d0f46ca9d2d451",
+  "components": {
+    "Python runtime": [
+      "python311.dll"
+    ],
+    "Qt widgets": [
+      "PySide6/Qt6Widgets.dll"
+    ],
+    "UI Automation x64 bridge": [
+      "uiautomation/bin/UIAutomationClient_VC140_X64.dll"
+    ],
+    "ONNX inference": [
+      "onnxruntime/capi/onnxruntime_pybind11_state.pyd"
+    ],
+    "VC runtime": [
+      "PySide6/VCRUNTIME140.dll",
+      "VCRUNTIME140.dll",
+      "shiboken6/VCRUNTIME140.dll"
+    ],
+    "VC runtime 1": [
+      "PySide6/VCRUNTIME140_1.dll",
+      "VCRUNTIME140_1.dll",
+      "shiboken6/VCRUNTIME140_1.dll"
+    ]
+  },
+  "ocr_models": [
+    "onnxruntime/datasets/logreg_iris.onnx",
+    "onnxruntime/datasets/mul_1.onnx",
+    "onnxruntime/datasets/sigmoid.onnx",
+    "rapidocr_onnxruntime/models/ch_PP-OCRv4_det_infer.onnx",
+    "rapidocr_onnxruntime/models/ch_PP-OCRv4_rec_infer.onnx",
+    "rapidocr_onnxruntime/models/ch_ppocr_mobile_v2.0_cls_infer.onnx"
+  ],
+  "prompt_sha256": {
+    "prompt_analysis.txt": "7e7069b7c1d16c5ff6ca65c2f0eda2e6257557eb4355a18e173ef96475686461",
+    "prompt_main.txt": "16e3e8b83532a896f008ca75c173da7683f22e5bcf7c2864320abc2a6573dd8c",
+    "prompt_progress.txt": "1ed04600f0445f2093140a416d4d107630943b3efa8a1bd048d486a8b8219a05",
+    "prompt_rewrite.txt": "64c71c6d4962847f162a7cd5993fc98bd2cc0dd8bfca6096dea389bb870ddeb1",
+    "prompt_summary.txt": "48fd228146979154d78416d059d976828dcb257f8b160fbf7ec8b24e8e7cc121"
+  },
+  "result": "PASS"
+}

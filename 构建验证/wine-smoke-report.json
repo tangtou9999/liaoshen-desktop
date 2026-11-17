@@ -1,0 +1,32 @@
+{
+  "environment": "Wine 8.0, Windows CPython 3.11.9; NOT real Windows",
+  "exe": "Z:\\work\\dist\\LiaoShen.exe",
+  "floating_robot_created": true,
+  "click_opens_panel": true,
+  "visible_windows": [
+    {
+      "title": "聊神 · 桌面版",
+      "class": "Qt683QWindowIcon",
+      "rect": [
+        842,
+        280,
+        1370,
+        1127
+      ]
+    },
+    {
+      "title": "LiaoShenDesktop",
+      "class": "Qt683QWindowToolSaveBits",
+      "rect": [
+        1376,
+        549,
+        1440,
+        613
+      ]
+    }
+  ],
+  "close_panel_keeps_process_running": true,
+  "second_instance_exit_code": 0,
+  "second_instance_opens_existing_panel": true,
+  "result": "PASS"
+}

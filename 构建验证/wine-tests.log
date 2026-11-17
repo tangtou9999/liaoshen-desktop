@@ -1,0 +1,17 @@
+test_context_keeps_roles (test_core.CoreTests.test_context_keeps_roles) ... ok
+test_errors_hide_server_body_and_secrets (test_core.CoreTests.test_errors_hide_server_body_and_secrets) ... ok
+test_json_strings_and_fences (test_core.CoreTests.test_json_strings_and_fences) ... ok
+test_missing_key_never_requests (test_core.CoreTests.test_missing_key_never_requests) ... ok
+test_request_protocol (test_core.CoreTests.test_request_protocol) ... ok
+test_schema_and_atomic_rewrite_precondition (test_core.CoreTests.test_schema_and_atomic_rewrite_precondition) ... ok
+test_sender_geometry (test_core.CoreTests.test_sender_geometry) ... ok
+test_original_prompt_bytes (test_prompts.PromptTests.test_original_prompt_bytes) ... ok
+test_review_excludes_unknown_and_requires_other (test_ui.UITests.test_review_excludes_unknown_and_requires_other) ... ok
+test_rewrite_updates_both_and_copy (test_ui.UITests.test_rewrite_updates_both_and_copy) ... ok
+test_encrypt_roundtrip (test_windows_config.WindowsConfigTests.test_encrypt_roundtrip) ... ok
+test_save_load (test_windows_config.WindowsConfigTests.test_save_load) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.056s
+
+OK
